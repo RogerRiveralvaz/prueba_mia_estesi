@@ -1,6 +1,6 @@
 module P2
 
-go 1.23
+go 1.21.9
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.4 // indirect
